@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 💼 linkedin.com/in/mkal1375/
-- 📫 How to reach me: mkal1375@gmail.com | twitter.com/mkal1375 | t.me/mkal1375
+- 💼  linkedin.com/in/mkal1375/
+- 📫  How to reach me: mkal1375@gmail.com | twitter.com/mkal1375 | t.me/mkal1375
 <!--
 **mkal1375/mkal1375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
