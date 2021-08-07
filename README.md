@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 💼  &nbsp; <a href="https://https://www.linkedin.com/in/mkal1375/">Linkedin<a>
 - 📧  &nbsp; <a target="_blank" href="mailto:mkal1375@gmail.com">mail me</a>
-- 🪶 <a target="_blank" href="https://twitter.com/mkal1375">Twitter</a>
-- 📫 <a target="_blank" href="https://t.me/mkal1375">Telegram</a>
+- 🪶 &nbsp; <a target="_blank" href="https://twitter.com/mkal1375">Twitter</a>
+- 📫 &nbsp; <a target="_blank" href="https://t.me/mkal1375">Telegram</a>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
